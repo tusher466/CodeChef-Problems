@@ -47,7 +47,7 @@ Most solutions are written with competitive programming in mind, focusing on:
 The repository is organized according to the different CodeChef Starters contests.
 
 ```text
-CodeChef-Starters-Solutions/
+CodeChef-Problems/
 │
 ├── README.md
 │
