@@ -411,5 +411,5 @@ You are welcome to use the code for learning and reference. If you use any solut
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=Made%20with%20🖤%20and%20C++&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" alt="Learning Resources Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer&text=Made%20with%20🖤%20and%20C++&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" alt="Footer"/>
 </p>
